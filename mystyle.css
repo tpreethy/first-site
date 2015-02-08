@@ -1,0 +1,14 @@
+h1 {
+    color:red;
+    position:relative;
+}
+
+p {
+	color:blue;
+	position:relative;
+	font-size: 15px;
+}
+
+/*body {
+	background-color: green;
+}*/
